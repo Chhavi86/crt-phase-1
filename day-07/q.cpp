@@ -1,0 +1,1 @@
+//create a college mmanagememt system in that a single parent class (name place ),  extended with a student(name mail batch course) and a teacher (name age salary department)class and solve virtual func to show thier classes
